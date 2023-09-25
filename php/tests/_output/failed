@@ -1,0 +1,11 @@
+tests/unit/FunctionsTest.php:test240EsParell
+tests/unit/FunctionsTest.php:test240arrayAleatori
+tests/unit/FunctionsTest.php:test240countParells
+tests/unit/FunctionsTest.php:test241Major
+tests/unit/FunctionsTest.php:test241Concatenar
+tests/unit/FunctionsTest.php:test242Digits
+tests/unit/FunctionsTest.php:test242DigitsN
+tests/unit/FunctionsTest.php:test242LlevaDarrere
+tests/unit/FunctionsTest.php:test242LlevaDavant
+tests/unit/FunctionsTest.php:test243peseta2Euros
+tests/unit/FunctionsTest.php:test243euro2Pesetes
