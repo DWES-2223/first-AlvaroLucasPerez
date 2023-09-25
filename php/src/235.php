@@ -17,11 +17,11 @@
         <tbody>
             <?php
             $persones = [
-                ['nom' => 'Aitor', 'altura' => 182, 'email' => 'aitor@correo.com'],
-                ['nom' => 'Maria', 'altura' => 165, 'email' => 'maria@correo.com'],
-                ['nom' => 'Joan', 'altura' => 175, 'email' => 'joan@correo.com'],
-                ['nom' => 'Laura', 'altura' => 160, 'email' => 'laura@correo.com'],
-                ['nom' => 'Carlos', 'altura' => 170, 'email' => 'carlos@correo.com']
+                ['nom' => 'Aitor', 'altura' => 172, 'email' => 'aitoraventuras@correo.com'],
+                ['nom' => 'Anthony', 'altura' => 165, 'email' => 'anthony12@correo.com'],
+                ['nom' => 'Willy', 'altura' => 180, 'email' => 'willyrex@correo.com'],
+                ['nom' => 'Dani', 'altura' => 160, 'email' => 'danimelenillas@correo.com'],
+                ['nom' => 'Carlos', 'altura' => 177, 'email' => 'carloscap@correo.com']
             ];
 
 
